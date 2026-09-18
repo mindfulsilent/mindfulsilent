@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm mindfulsilent 👋
 
-<!--
-**mindfulsilent/mindfulsilent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Tech enthusiast exploring AI and emerging technologies to build safer, smarter, human-first ideas—making technology feel more seamless in everyday life and helping people turn problems into solutions.**
 
-Here are some ideas to get you started:
+## Living in the future
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning and building tools that make agentic engineering faster for everyone.
+
+I explore:
+
+- AI and emerging technologies
+- Shopify and commerce ideas
+- Social technology and safer human connection
+- Research and development
+- Vibe coding, agentic engineering, and the future of development
+
+## What I'm building and learning
+
+- **AI workflows** — sharing practical learnings as I explore new ways to work with AI
+- **Rapid prototyping** — turning ideas into working apps in days, not months
+- **Human-first technology** — finding ways for technology to make everyday life safer, smarter, and more seamless
+
+## Philosophy
+
+**Polyagentmorous coder** 🤖
+
+I enjoy working with multiple AI agents, testing ambitious ideas quickly, and learning in public.
