@@ -1,27 +1,20 @@
 # Hi, I'm mindfulsilent 👋
 
-> **Tech enthusiast exploring AI and emerging technologies to build safer, smarter, human-first ideas—making technology feel more seamless in everyday life and helping people turn problems into solutions.**
+🤖 **Building thoughtful systems at the edge of AI**
 
-## Living in the future
+Exploring AI and emerging technologies to make everyday life safer, smarter, and more seamless.
 
-Learning and building tools that make agentic engineering faster for everyone.
+`AI` · `Agentic Engineering` · `Shopify` · `Social Technology` · `R&D`
 
-I explore:
+## Start Here
 
-- AI and emerging technologies
-- Shopify and commerce ideas
-- Social technology and safer human connection
-- Research and development
-- Vibe coding, agentic engineering, and the future of development
+- **Agentic engineering** — learning and building tools that help people turn ideas into working software faster
+- **Human-first technology** — exploring safer, more meaningful ways for people to connect and solve everyday problems
+- **Rapid prototyping** — testing ambitious ideas quickly and turning useful ones into real products
+- **Commerce & Shopify** — designing smarter tools for product discovery, planning, and launches
 
-## What I'm building and learning
+## Currently thinking about
 
-- **AI workflows** — sharing practical learnings as I explore new ways to work with AI
-- **Rapid prototyping** — turning ideas into working apps in days, not months
-- **Human-first technology** — finding ways for technology to make everyday life safer, smarter, and more seamless
-
-## Philosophy
-
-**Polyagentmorous coder** 🤖
-
-I enjoy working with multiple AI agents, testing ambitious ideas quickly, and learning in public.
+- How AI can make technology feel more natural and less complicated
+- The future of development: from vibe coding to reliable agentic engineering
+- Products that create genuine value for people, not just more screen time
