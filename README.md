@@ -31,4 +31,4 @@ Exploring emerging technology with a human-first lens: making life and work safe
 
 ## Off the terminal
 
-<img src="https://liquipedia.net/commons/images/f/f6/The_International_2024_aegis_allmode.png" alt="Aegis of Champions from Dota 2" width="42" /> **Dota 2 lover** — still chasing the Aegis.
+<img src="https://liquipedia.net/commons/images/f/f6/The_International_2024_aegis_allmode.png" alt="Aegis of Champions from Dota 2" width="42" /> **Dota 2 lover** — still loving the game and enjoying The International.
