@@ -13,12 +13,12 @@ Exploring emerging technology with a human-first lens: making life and work safe
 
 ## Start Here
 
-- **Agentic engineering** — building calmer, faster paths from an idea to working software
+- **Agentic research & engineering** — building calmer, faster paths from an idea to working software, while pushing the horizon of what people can create
 - **AI, data & statistics** — finding signal in complexity and turning it into useful decisions
 - **Human-first technology** — designing safer, more meaningful ways to connect and solve everyday problems
 - **E-commerce** — exploring better tools for product discovery, planning, and launches
 
-## Selected research
+## Published research
 
 - **[An LLM-Based Agent Framework for Dynamic and Semantic Data Fusion, Integration and Engineering for Data Analysis](https://link.springer.com/chapter/10.1007/978-3-031-92517-7_12)** — *Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering · 2025*
 
@@ -31,4 +31,4 @@ Exploring emerging technology with a human-first lens: making life and work safe
 
 ## Off the terminal
 
-🎮 Dota 2 lover
+<img src="./assets/aegis-of-the-immortal.png" alt="Aegis of the Immortal from Dota 2" width="42" /> **Dota 2 lover** — still chasing the Aegis.
