@@ -1,8 +1,8 @@
-# Hi, I'm mindfulsilent 👋
-
-> **AI · data · statistics — turning complex signals into clear, useful systems.**
+# Hi, I'm Kasun 👋
 
 Exploring emerging technology with a human-first lens: making life and work safer, smarter, and more seamless.
+
+`AI` · `Data` · `Statistics` · `Agentic Engineering` · `E-commerce` · `Social Technology` · `R&D`
 
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI-Codex-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
@@ -31,4 +31,4 @@ Exploring emerging technology with a human-first lens: making life and work safe
 
 ## Off the terminal
 
-<img src="./assets/aegis-of-the-immortal.png" alt="Aegis of the Immortal from Dota 2" width="42" /> **Dota 2 lover** — still chasing the Aegis.
+<img src="https://liquipedia.net/commons/images/f/f6/The_International_2024_aegis_allmode.png" alt="Aegis of Champions from Dota 2" width="42" /> **Dota 2 lover** — still chasing the Aegis.
